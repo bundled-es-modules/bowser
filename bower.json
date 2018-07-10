@@ -1,0 +1,5 @@
+{
+  "name": "bowser",
+  "description": "mirror of bowser for bower, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>"
+}

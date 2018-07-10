@@ -1,0 +1,14 @@
+{
+  "name": "bowser",
+  "description": "mirror of bowser for bower, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>",
+  "main": "index.js",
+  "devDependencies": {
+    "bowser": "1.9.4",
+    "rollup": "^0.62.0",
+    "rollup-plugin-commonjs": "^9.1.3"
+  },
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  }
+}
