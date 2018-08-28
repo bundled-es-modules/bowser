@@ -1,6 +1,7 @@
 {
-  "name": "bowser",
-  "description": "mirror of bowser for bower, bundled and exposed as ES module",
+  "name": "@bundled-es-modules/bowser",
+  "version": "1.9.4",
+  "description": "mirror of bowser, bundled and exposed as ES module",
   "author": "Mikhail Bashkirov <bashmish@gmail.com>",
   "main": "index.js",
   "devDependencies": {
